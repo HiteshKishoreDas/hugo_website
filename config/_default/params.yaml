@@ -79,8 +79,8 @@ highlight_languages:
   - r
   - python
   - latex
-math: false
-diagram: false
+math: true 
+diagram: true
 privacy_pack: false
 edit_page:
   repo_url: ''
@@ -92,7 +92,7 @@ edit_page:
     book: false
 show_related:
   book: true
-  page: false
+  page: true
   post: true
   project: true
   publication: true
@@ -102,7 +102,7 @@ section_pager: false
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
@@ -136,14 +136,14 @@ comments:
   commento:
     url: ''
 search:
-  provider: wowchemy
+  provider: google
   algolia:
     app_id: ''
     api_key: ''
     index_name: ''
     show_logo: false
 map:
-  provider: mapnik
+  provider: google
   api_key: ''
   zoom: 15
 marketing:
