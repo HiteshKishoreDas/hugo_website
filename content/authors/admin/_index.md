@@ -1,39 +1,37 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Hitesh Kishore Das
 
 # Is this the primary user of the site?
-superuser: true
+superuser: true 
 
-# Role/position/tagline
-role: Professor of Artificial Intelligence
+# Role/position
+role: PhD Student
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Max Planck Institute for Astrophysics
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Studying idealized simulations of circumgalactic and intergalactic medium 
 
-# Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Astrophysics
+- Multiphase gas
+- Turbulence
 
-# Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Astrophysics
+    institution: Max Planck Institute for Astrophysics
+    year: 2021-Present
+  - course: Master of Science in Physics
+    institution: Indian Institute of Science
+    year: 2020-2021
+  - course: Bachelor of Science (Research) in Physics
+    institution: Indian Institute of Science
+    year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,22 +40,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:hitesh@mpa-garching.mpg.de
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/hitesh_k_das
   label: Follow me on Twitter
   display:
     header: true
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=5F0FN1QAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/hiteshkishoredas
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -73,7 +71,7 @@ email: ""
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hitesh Kishore Das is a PhD student at Max Planck Institute for Astrophysics, Garching.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
