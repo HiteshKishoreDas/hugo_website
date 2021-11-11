@@ -22,28 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Role of temperature and metallicity in the evolution of thermal instability
+    company: Indian Institute of Science
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    # company_logo: org-gc
+    location: Bangalore
+    date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+    This was my Bachelor's and Master's thesis project. Resulted in a publication in MNRAS. 
+    Shatter or not- role of temperature and metallicity in the evolution of thermal instability” (2020) Hitesh Kishore Das, Prakriti Pal Choudhury, Prateek Sharma
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Summer Research Assistant
+    company: Nanyang Technological University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    # company_logo: org-x
+    location: Singapore
+    date_start: '2019-05-08'
+    date_end: '2019-07-12'
+    description: |2-
+    This project aimed at investigating the underlying physical origin of this “phase transition” via the development of appropriate computational models
 
 design:
   columns: '2'
