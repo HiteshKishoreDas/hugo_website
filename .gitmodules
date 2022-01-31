@@ -1,6 +1,0 @@
-[submodule "themes/themes/academic"]
-	path = themes/themes/academic
-	url = https://github.com/HiteshKishoreDas/starter-hugo-academic-fork.git
-[submodule "themes/academic"]
-	path = themes/academic
-	url = https://github.com/HiteshKishoreDas/starter-hugo-academic-fork.git
