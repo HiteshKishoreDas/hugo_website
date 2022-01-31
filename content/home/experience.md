@@ -30,8 +30,8 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-    This was my Bachelor's and Master's thesis project. Resulted in a publication in MNRAS. 
-    Shatter or not- role of temperature and metallicity in the evolution of thermal instability” (2020) Hitesh Kishore Das, Prakriti Pal Choudhury, Prateek Sharma
+    # This was my Bachelor's and Master's thesis project. Resulted in a publication in MNRAS. 
+    # Shatter or not role of temperature and metallicity in the evolution of thermal instability” (2020) Hitesh Kishore Das, Prakriti Pal Choudhury, Prateek Sharma
         
   - title: Summer Research Assistant
     company: Nanyang Technological University
@@ -41,7 +41,7 @@ experience:
     date_start: '2019-05-08'
     date_end: '2019-07-12'
     description: |2-
-    This project aimed at investigating the underlying physical origin of this “phase transition” via the development of appropriate computational models
+    # This project aimed at investigating the underlying physical origin of this “phase transition” via the development of appropriate computational models
 
 design:
   columns: '2'
