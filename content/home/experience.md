@@ -22,6 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Multiphase gas in magnetised turbulent medium
+    company: Max Planck Institute for Astrophysics
+    company_url: ''
+    # company_logo: org-gc
+    location: Garching bei Munich, Germany
+    date_start: '2021-09-01'
+    date_end: ''
+    description: |2-
+    # This was my Bachelor's and Master's thesis project. Resulted in a publication in MNRAS. 
+    # Shatter or not role of temperature and metallicity in the evolution of thermal instability” (2020) Hitesh Kishore Das, Prakriti Pal Choudhury, Prateek Sharma
+  
   - title: Role of temperature and metallicity in the evolution of thermal instability
     company: Indian Institute of Science
     company_url: ''

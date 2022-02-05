@@ -71,6 +71,6 @@ email: ""
 highlight_name: true
 ---
 
-Hitesh Kishore Das is a PhD student at Max Planck Institute for Astrophysics, Garching.
+I am an IMPRS PhD student at Max Planck Institute for Astrophysics, Garching.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
