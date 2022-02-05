@@ -1,12 +1,8 @@
 ---
-
-
-
-
-
 title: Posts
 cms_exclude: true
 type: page
+
 
 # View.
 #   1 = List
