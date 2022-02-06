@@ -74,3 +74,5 @@ highlight_name: true
 I am an IMPRS PhD student at Max Planck Institute for Astrophysics, Garching.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+This website is still under development, so you might see some bugs or errors... :P
