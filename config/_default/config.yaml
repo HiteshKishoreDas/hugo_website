@@ -30,6 +30,7 @@ module:
 ############################
 
 relativeURLs: true
+uglyURLs: true
 
 enableGitInfo: false
 summaryLength: 30
