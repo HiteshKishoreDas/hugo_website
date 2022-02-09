@@ -4,14 +4,16 @@
 widget: experience
 
 # This file represents a page section.
-headless: true
+# headless: true
 
 
 # Order that this section appears on the page.
 weight: 40
 
-title: Recent Experience
-subtitle: For the full list, visit [this page](experience.html)
+# title: Experience
+# subtitle:
+
+widget: experience
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -54,6 +56,22 @@ experience:
     date_end: '2019-07-12'
     description: |2-
     # This project aimed at investigating the underlying physical origin of this “phase transition” via the development of appropriate computational models
+
+  - title: Electrostatics of Spherical Topological Insulators
+    company: Indian Institute of Science
+    company_url: ''
+    # company_logo: org-x
+    location: Bangalore
+    date_start: '2018-05-01'
+    date_end: '2018-07-31'
+  
+  - title: Analysis of data from CERN 2010 open data and simulation of top pair production
+    company: Indian Institute of Science
+    company_url: ''
+    # company_logo: org-x
+    location: Bangalore
+    date_start: '2017-05-01'
+    date_end: '2017-07-31'
   
 
 design:
