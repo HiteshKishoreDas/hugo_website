@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Posts
-    url: post/
+    url: post.html
     weight: 20
   # - name: Projects
   #   url: '#projects'
@@ -23,5 +23,5 @@ main:
   #   url: courses/
   #   weight: 60
   - name: Contact
-    url: contact
+    url: contact.html
     weight: 70
